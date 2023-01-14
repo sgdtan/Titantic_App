@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
+
 import cv2
 from PIL import Image
 import os
